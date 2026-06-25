@@ -1,3 +1,5 @@
+# Hi! I'm Fatih Faisal Faruk.
+
 # 💫 About Me:
 🔭 I’m currently working on developing Programming Language<br>🌱 I’m currently learning Kotlin / Python<br>⚡ 14th y.o programmer
 
