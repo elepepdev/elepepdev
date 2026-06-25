@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Mobile Apps<br>🌱 I’m currently learning Kotlin / Python<br>⚡ 14th y.o programmer
+🔭 I’m currently working on developing Programming Language<br>🌱 I’m currently learning Kotlin / Python<br>⚡ 14th y.o programmer
 
 
 ## 🌐 Socials:
